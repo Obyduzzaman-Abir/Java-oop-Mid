@@ -13,6 +13,10 @@ public class Main {
         teacher2.phone=025545;
         teacher2.displayResult();
 
+        Teacher teacher3=new Teacher();
+        teacher3.setInfo(" Islam","kkk",14788);
+        teacher3.displayResult();
+
        /* System.out.println("Name : "+teacher1.name+"gender : " +teacher1.gender+"Phone : "+teacher1.phone);
         System.out.println("Name : "+teacher2.name+"gender : "+teacher2.gender+"Phone : "+teacher2.phone);
 */
